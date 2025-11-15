@@ -17,3 +17,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewhitetea0001&theme=dark" width="48%" >
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thewhitetea0001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e2e2e2&icon_color=ea9227&text_color=e2e2e2&bg_color=0,151515,151515" alt="my Github Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thewhitetea0001&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
