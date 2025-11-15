@@ -15,3 +15,5 @@
 
 ### My streak:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e2e2e2&icon_color=ea9227&text_color=e2e2e2&bg_color=0,151515,151515" alt="my Github Stats"/>
