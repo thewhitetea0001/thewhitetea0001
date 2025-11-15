@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a></p>
 
-### My streak:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+### My status:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewhitetea0001&theme=dark" width="48%" >
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e2e2e2&icon_color=ea9227&text_color=e2e2e2&bg_color=0,151515,151515" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewhitetea0001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e2e2e2&icon_color=ea9227&text_color=e2e2e2&bg_color=0,151515,151515" alt="my Github Stats"/>
